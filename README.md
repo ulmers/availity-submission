@@ -30,3 +30,6 @@
  Fowler's ability to express the ideas so clearly.
  3. Availity helps doctors share information with each other about sick people, and helps doctors get paid when they
  help sick people.
+ 4. [List Parentheses Checker](https://github.com/ulmers/LispParenChecker)
+ 5. Request Form [repository](https://github.com/ulmers/request-form) and [deployment](https://ulmers.github.io/request-form/)
+ 6. [Enrollment CSV Parser](https://github.com/ulmers/EnrollmentCSVParser)
